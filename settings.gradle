@@ -1,1 +1,1 @@
-include ':mtjo','..:Android_BaseLib:baselib'
+include ':mtjo','..:baselib:baselib'

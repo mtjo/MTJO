@@ -1,0 +1,1 @@
+include ':mtjo',':Android_BaseLib:app'
